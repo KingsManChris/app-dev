@@ -1,13 +1,14 @@
 # app-dev
 My first repository
 
-# Alpha
-## Delta
-### Theita
+### Goooooooood Stuffff
 
 **My favorite TV Series**
 - Tensura
 - Spy x Family
 - ~~Astro Boy~~
-'print("Jujutsukaisen")'
+
+**My thoughts**
+1. good movie
+2. Story great
 
